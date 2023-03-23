@@ -5,9 +5,10 @@ En son sürümü çalıştırdığınızdan emin olmak lazım. Bunu yapmak için
 sudo apt-get update.
 ```
 
-# Git'i yüklemek için aşağıdaki komutu çalıştırın: 
+Git'i yüklemek için aşağıdaki komutu çalıştırın: 
 
 ``` sudo apt-get install git-all ```
+
 Komut çıktısı tamamlandıktan sonra, yüklemenin doğru bir şekilde yapıldığını doğrulamak için şunu yazarak kontrol edebilirsiniz: 
 
 ```Git version ```
